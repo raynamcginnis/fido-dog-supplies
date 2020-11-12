@@ -1,11 +1,11 @@
 ## Overview
 
-This store homepage template was built using HTML and CSS. It utilizes CSS Grid, transitions annd media queries for mobile responsiveness
+This store homepage template was built using HTML and SASS. It utilizes CSS Grid, transitions annd media queries for mobile responsiveness
 
 ## Technologies
 
 - HTML
-- CSS
+- SASS
 
 ## Sources
 - Images are free stock photos downloaded from pixabay.com and pexels.com
