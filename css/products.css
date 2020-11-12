@@ -1,0 +1,26 @@
+.products {
+  grid-column: 1 / -1;
+  grid-row: 3 / 4; }
+  .products-heading {
+    margin: 5rem 0; }
+    .products-heading-text {
+      text-align: center;
+      font-size: size(lg)2rem;
+      font-weight: 300;
+      color: color(primary); }
+  .products-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+
+.product {
+  position: relative; }
+  .product:hover .product-description {
+    opacity: 1;
+    visibility: visible; }
+  .product:hover .product-img {
+    opacity: .5; }
+  .product-img {
+    width: 100%;
+    padding: 25px;
+    transition: all 1s .5s; }
